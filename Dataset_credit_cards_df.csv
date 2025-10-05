@@ -1,0 +1,235 @@
+nombre_tarjeta,Tasa de interés mensual,Ingreso mínimo,Cuota de manejo,Marca,Solicitar,Costo de avance en efectivo,Tipo de tarjeta,Tasa de interes no informada,ingreso minimo no informado,Disponibilidad
+Tarjeta de Crédito Bancolombia Mastercard Joven,2.01,200000,15490,mastercard, Online,6900, Internacional,1,1,1
+Tarjeta de Crédito Banco de Occidente Mastercard Joven,2.24,500000,16300,mastercard, Online,6800, Internacional,1,1,1
+Tarjeta de Crédito Banco de Occidente Visa Joven,2.24,500000,16300,visa, Online,6800, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Visa Liviana,2.16,1423500,20000,visa, Presencial,6400, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Diners Club Liviana,2.16,1423500,20000,diners club, Presencial,6400, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Mastercard Liviana,2.16,1423500,20000,mastercard, Presencial,6400, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Biomax Clásica,2.31,1423500,30790,visa, Online,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Movistar Aliada,2.31,1423500,26010,mastercard, Online,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Digital,2.31,1423500,24710,visa, Online,5560, Internacional,1,1,1
+Tarjeta de Crédito Bancoomeva Coomeva Mastercard,1.91,,34000,mastercard, Online,6545, Internacional,1,0,1
+Tarjeta de Crédito Bancoomeva Visa Platino,1.91,,42000,visa, Online,6545, Internacional,1,0,1
+Tarjeta de Crédito Bancoomeva Visa Oro,1.91,,38000,visa, Online,6545, Internacional,1,0,1
+Tarjeta de Crédito Bancoomeva Visa Clásica,1.91,,32000,visa, Online,6545, Internacional,1,0,1
+Tarjeta de Crédito Banco Caja Social Colmédica Platinum,2.18,1423500,109680,visa, Presencial,10520, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Mastercard Clásica,2.4,1423500,28000,mastercard, Presencial,6400, Internacional,1,1,1
+Tarjeta de Crédito Banco Popular Mastercard Cero,2.27,,0,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Americanino,2.4,,28000,visa, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda NAF NAF,2.4,,28000,visa, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Rifle,2.4,,28000,visa, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Chevignon,2.4,,28000,visa, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Mastercard Alianza Apple,2.4,,28000,mastercard, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Visa Alianza Apple,2.4,,28000,mastercard, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Banco de Bogotá Mastercard Aliada,2.31,1423500,26010,mastercard, Online,5560, Nacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Aliada,2.31,1423500,26010,visa, Online,5560, Nacional,1,1,1
+Tarjeta de Crédito Bancolombia Mastercard Ideal,2.01,1423500,16690,mastercard, Online,6900, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Avianca LifeMiles Clásica,2.4,,28000,visa, Presencial,6400, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Visa Clásica,2.4,1423500,28000,visa,,6400, Internacional,1,1,0
+Tarjeta de Crédito Bancolombia Visa Clásica,2.01,1423500,29400,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Itaú Visa Clásica,2.31,400000,34962,visa, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito BBVA Visa Platinum,2.31,1423500,38900,visa, Online,10500, Internacional,1,1,1
+Tarjeta de Crédito BBVA Visa Oro,2.31,,34900,visa, Online,10500, Internacional,1,0,1
+Tarjeta de Crédito BBVA Visa Clásica,2.31,,29600,visa, Online,10500, Nacional,1,0,1
+Tarjeta de Crédito BBVA Visa Congelada,2.31,,17900,visa, Online,10500, Nacional,1,0,1
+Tarjeta de Crédito BBVA World Vision Standard,2.31,,29600,mastercard, Online,10500, Nacional,1,0,1
+Tarjeta de Crédito BBVA Mastercard Black,2.31,,48900,mastercard, Online,10500, Internacional,1,0,1
+Tarjeta de Crédito BBVA Mastercard Platinum,2.31,,38900,mastercard, Online,10500, Internacional,1,0,1
+Tarjeta de Crédito BBVA Mastercard Gold,2.31,,34900,mastercard, Online,10500, Internacional,1,0,1
+Tarjeta de Crédito BBVA Mastercard Standard,2.31,,29600,mastercard, Online,10500, Nacional,1,0,1
+Tarjeta de Crédito Bancolombia Sufi,2.52,1000000,28690,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia American Express Gold,2.52,1423500,38400,american express,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Visa Selección Colombia,2.52,1423500,26490,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito AV Villas Portal 80 Clásica,2.29,1423500,26990,visa, Online,14900, Nacional,1,1,1
+Tarjeta de Crédito AV Villas Auteco Clásica,2.31,1423500,26990,mastercard, Online,14900, Nacional,1,1,1
+Tarjeta de Crédito AV Villas Mastercard Facilísima,2.29,,28990,mastercard, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito Banco de Bogotá Visa Economía,2.31,2135250,29380,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Clásica,2.31,2135250,29900,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Mastercard Clásica,2.31,2135250,29900,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Movistar Clásica,2.31,2135250,30790,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Círculo de suboficiales de las FFMM Mastercard,2.18,,4000,mastercard,ambas,10520, Internacional,1,0,1
+Tarjeta de Crédito Banco Caja Social Círculo de suboficiales de las FFMM Visa,2.18,,4000,visa,ambas,10520, Internacional,1,0,1
+Tarjeta de Crédito Banco Caja Social Comfacesar,2.18,,13900,mastercard,ambas,10520, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Portal 80 Gold,2.29,,27990,visa, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Plaza de Las Américas Gold,2.29,,27990,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Plaza de Las Américas Clásica,2.29,,26990,mastercard, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito AV Villas Auteco Gold,2.29,,27990,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Vivamos el Tiempo Platino,2.29,,28990,mastercard, Presencial,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Vivamos el Tiempo Gold,2.29,,27990,mastercard, Presencial,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Vivamos el Tiempo Clásica,2.29,,26990,mastercard, Presencial,14900, Nacional,1,0,1
+Tarjeta de Crédito AV Villas Mastercard Platinum,2.29,,28500,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Visa Platinum,2.29,,28500,visa, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Mastercard Gold,2.29,,37990,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Visa Gold,2.29,,37990,visa, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Mastercard Clásica,2.29,,31990,mastercard, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito AV Villas Visa Clásica,2.29,,31990,visa, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito Banco de Bogotá LATAM Pass Clásica,2.31,2135250,30790,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco Popular Mastercard Clásica,2.27,,27400,mastercard,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Visa Clásica,2.27,,27400,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Diamante para Pensionados,2.27,,27400,visa,ambas,0, Nacional,1,0,1
+Tarjeta de Crédito Cencosud Básica,2.26,,32990,visa, Presencial,8571, Nacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Motorysa,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Central Motor,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Finanzauto,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Casa Toro,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Oro,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco de Occidente Visa Clásica,2.24,,26533,visa,ambas,6800, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Mujer Clásica,2.4,1423500,28000,mastercard,,6400, Internacional,1,1,0
+Tarjeta de Crédito Cencosud Clásica,2.26,,32990,visa, Presencial,8571, Nacional,1,0,1
+Tarjeta de Crédito GNB Sudameris Mastercard Oro,2.2,1562484,39000,mastercard, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito GNB Sudameris Visa Oro,2.2,1562484,39000,visa, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Mastercard Platinum,2.52,1423500,26533,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Mastercard Oro,2.52,1423500,27590,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Mastercard Clásica,2.01,1423500,24590,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia American Express Green,2.52,1423500,33390,american express,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia American Express Blue,2.01,1423500,29400,american express,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Visa Platinum,2.31,1423500,38400,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Visa Oro,2.31,1423500,27590,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Avianca LifeMiles,2.01,1423500,40990,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito CMR Falabella,2.26,1423500,26990,tarjetas privadas, Online,26990, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Clubes y Colegios,2.4,1800000,28000,diners club,,6400, Internacional,1,1,0
+Tarjeta de Crédito Banco de Occidente Mastercard Clásica,2.31,1423500,26777,mastercard,ambas,6800, Internacional,1,1,1
+Tarjeta de Crédito Itaú Mastercard Gold,2.31,600000,34962,mastercard, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Itaú Visa Gold,2.31,600000,34962,visa, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Diners Club,2.4,1423500,20000,diners club,,6400, Internacional,1,1,0
+Tarjeta de Crédito Banco de Occidente LATAM Pass Gold,,1562484,31600,visa,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito GNB Sudameris Visa Clásica Internacional,2.2,2500000,31200,visa, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito Banco Popular Mastercard Oro,2.27,,31100,mastercard,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Visa Oro,2.27,,31100,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Caja Social Mastercard Oro,2.18,1423500,101850,mastercard,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Visa Oro,2.18,1423500,101850,visa,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Banco de Occidente Mastercard Gold,,1562484,31000,mastercard,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Banco de Occidente Visa Gold,,1562484,32000,visa,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Davivienda Mujer Platinum,2.4,4000000,37000,mastercard,,6400, Internacional,1,1,0
+Tarjeta de Crédito Davivienda Avianca LifeMiles Gold,2.4,,32000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Gold,2.4,1423500,32000,mastercard,,6400, Internacional,1,1,0
+Tarjeta de Crédito Davivienda Visa Gold,2.4,1423500,32000,visa,,6400, Internacional,1,1,0
+Tarjeta de Crédito Banco de Bogotá Biomax Gold,2.31,8541000,35520,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Movistar Gold,2.31,8541000,35520,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Gold,2.31,8541000,34700,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Mastercard Gold,2.31,8541000,34700,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá LATAM Pass Gold,2.31,8541000,35520,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco Popular Mastercard Platinum,2.27,,36300,mastercard,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Visa Platinum,2.27,,36300,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito GNB Sudameris Mastercard Platinum,2.2,6249936,44800,mastercard, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito GNB Sudameris Visa Platinum,2.2,6249936,44800,visa, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Mastercard Platinum,2.18,1423500,109680,mastercard,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Visa Platinum,2.18,1423500,109680,visa,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Banco de Occidente Mastercard Platinum,,1562484,34623,mastercard,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Banco de Occidente Visa Platinum,,1562484,40260,visa,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Banco de Occidente LATAM Pass Platinum,,1562484,35500,visa,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Banco de Bogotá Movistar Platinum,2.31,14235000,40260,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá LATAM Pass Platinum,2.31,14235000,40260,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Platinum,2.31,14235000,39080,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Mastercard Platinum,2.31,14235000,35500,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Avianca LifeMiles Platinum,2.4,,37000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Platinum,2.4,1423500,37000,mastercard,,6400, Internacional,1,1,0
+Tarjeta de Crédito Davivienda Visa Platinum,2.4,,37000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Diners Club Black,2.4,1423500,0,diners club,,6400, Internacional,1,1,0
+Tarjeta de Crédito GNB Sudameris Mastercard GNB Premier,2.2,,0,mastercard, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito GNB Sudameris Visa Signature,2.2,9374904,47000,visa, Presencial,0, Internacional,1,1,1
+Tarjeta de Crédito Banco Popular Mastercard Black,2.27,,36300,mastercard,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Visa Signature,2.27,,45000,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Avianca LifeMiles Signature,2.4,,46000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Black,2.4,1423500,46000,mastercard,,6400, Internacional,1,1,0
+Tarjeta de Crédito Davivienda Visa Signature,2.4,1423500,46000,visa,,6400, Internacional,1,1,0
+Tarjeta de Crédito Bancolombia Mastercard Black,2.52,10000000,48490,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia American Express Platinum,2.52,5000000,48490,american express,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Banco de Occidente Mastercard Black,,1562484,43900,mastercard,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Banco de Occidente LATAM Pass Signature,,1562484,44400,visa,ambas,6800, Internacional,0,1,1
+Tarjeta de Crédito Itaú Mastercard Platinum,2.31,1200000,39401,mastercard, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Itaú Visa Platinum,2.31,1200000,39401,visa, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Bancolombia Visa Infinite,2.31,5000000,48490,visa,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito AV Villas Mastercard Black,2.29,,35000,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito Itaú Mastercard Black,2.31,2100000,49391,mastercard, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá LATAM Pass Signature,2.31,42705000,47980,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Signature,2.31,42705000,48410,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Mastercard Black,2.31,42705000,48410,mastercard,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco de Bogotá Visa Infinite,2.31,85410000,51890,visa,ambas,5560, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Mastercard Clásica,2.18,1423500,84600,mastercard,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Banco Caja Social Visa Clásica,2.18,1423500,84600,visa,ambas,10520, Internacional,1,1,1
+Tarjeta de Crédito Davivienda Tugó,2.4,,28000,mastercard,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Corferias Cfiel,2.4,,20000,mastercard,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda ComfaSucre Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Esprit,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Corporativa,2.31,,35400,visa,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Negocios Visa,2.31,,32680,visa,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Negocios Mastercard,2.31,,32680,mastercard,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Crecer Visa,2.31,,27740,visa,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Crecer Mastecard,2.31,,27740,mastercard,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Logros Visa,2.31,,23150,visa,,5560, Internacional,1,0,0
+Tarjeta de Crédito Banco de Bogotá Logros Mastercard,2.31,,23150,mastercard,,5560, Internacional,1,0,0
+Tarjeta de Crédito Cencosud Platinum,2.26,,41990,visa, Presencial,8571, Internacional,1,0,1
+Tarjeta de Crédito Cencosud Gold,2.26,,22633,visa, Presencial,8571, Internacional,1,0,1
+Tarjeta de Crédito AV Villas Experto,2.29,,23990,mastercard, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito Davivienda Comfamiliar Risaralda Clásica,2.4,,21000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mango,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfaoriente Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfaca Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfaboy Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfiar Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfenalco Tolima Clásica,2.4,,16800,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Cajasai Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfenalco Santander Clásica,2.4,,16800,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Cofrem Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Comfaguajira Clásica,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda COMFAMILIAR Nariño Clásica,2.4,,21000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda COMFAMILIAR Atlántico Oro,2.4,,21000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda COMFAMILIAR Atlántico Clásica,2.4,,21000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito AV Villas Ventura Plaza Clásica,2.29,,26990,mastercard, Online,14900, Nacional,1,0,1
+Tarjeta de Crédito AV Villas Ventura Plaza Gold,2.29,,27990,mastercard, Online,14900, Internacional,1,0,1
+Tarjeta de Crédito BBVA Mastercard Heroes,2.31,,29600,mastercard, Online,10500, Nacional,1,0,1
+Tarjeta de Crédito Banco Caja Social Amigos de la Experiencia Platinum,2.18,,22150,visa,ambas,10520, Internacional,1,0,1
+Tarjeta de Crédito Banco de Bogotá Elite Negocios,2.31,10000000,40990,visa,,5560, Internacional,1,1,0
+Tarjeta de Crédito Banco de Occidente LATAM Pass Clásica,,,26900,visa,ambas,6800, Internacional,0,0,1
+Tarjeta de Crédito Banco de Occidente Visa Infinite,,,47487,visa,ambas,6800, Internacional,0,0,1
+Tarjeta de Crédito CMR Falabella Black,2.26,1423500,38900,mastercard, Online,26990, Internacional,1,1,1
+Tarjeta de Crédito Banco Finandina Visa Autogermana BMW,2.3,,25900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Finandina Visa Autogermana Motorrad,2.3,,26900,visa, Online,0, Internacional,1,0,1
+Tarjeta de Crédito GNB Sudameris Visa Corporativa,2.2,,30400,visa, Presencial,0, Internacional,1,0,1
+Tarjeta de Crédito Itaú Mastercard Clásica,2.31,400000,29967,mastercard, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Itaú Visa Gold LifeMiles,2.31,,34407,visa, Online,11099, Internacional,1,0,1
+Tarjeta de Crédito Itaú Visa Infinite,2.31,2100000,52831,visa, Online,11099, Internacional,1,1,1
+Tarjeta de Crédito Itaú Visa Signature LifeMiles,2.31,,39956,visa, Online,11099, Internacional,1,0,1
+Tarjeta de Crédito Itaú Visa Clásica Universitaria,2.31,,11099,visa, Online,11099, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular La 14 Oro,2.27,,28600,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular Visa Hogar,2.27,,27400,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Banco Popular La 14 Clásica,2.27,,23400,visa,ambas,0, Internacional,1,0,1
+Tarjeta de Crédito Bancolombia Mastercard E-Card,2.52,70000,0,mastercard,ambas,6900, Internacional,1,1,1
+Tarjeta de Crédito Cencosud Infinite,2.26,,41990,visa, Presencial,8571, Internacional,1,0,1
+Tarjeta de Crédito Davivienda Mastercard Merkepaisa,2.4,,16800,mastercard,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Uniandinos,2.4,,28000,mastercard,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Uniandinos Gold,2.4,,32000,mastercard,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Mastercard Uniandinos Platinum,2.31,70000,0,mastercard,,6400, Internacional,1,1,0
+Tarjeta Móvil Davivienda,2.4,1423500,20000,visa,,6400, Nacional,1,1,0
+Tarjeta de Crédito Davivienda Visa Alianza DentiSalud,2.4,,28000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda Visa Decameron,2.4,1423500,20000,visa,,6400, Internacional,1,1,0
+Tarjeta de Crédito Davivienda Visa Euro LifeMiles,2.4,,21000,visa,,6400, Internacional,1,0,0
+Tarjeta de Crédito Davivienda,2.4,1423500,20000,tarjetas privadas,,6400, Internacional,1,1,0
+Tarjeta de Crédito Scotiabank Colpatria Infinite Avianca LifeMiles,2.31,2135250,53990,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria Mastercard Gold AAdvantage,2.31,,37990,mastercard, Online,8571, Internacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria Mastercard Platinum AAdvantage,2.31,,41990,mastercard, Online,8571, Internacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria One Cash Back MasterCard,2.31,2135250,31990,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Cash Back Visa,2.31,2135250,31990,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Light MasterCard,2.31,2135250,0,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Light Visa,2.31,2135250,0,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Black,2.31,2135250,47990,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Classic American Express,2.31,2135250,31990,american express, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Classic MasterCard,2.31,2135250,31990,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Classic Visa,2.31,2135250,31990,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Gold American Express,2.31,2135250,36990,american express, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Gold MasterCard,2.31,2135250,36990,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Gold Visa,2.31,2135250,36990,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Infinite,2.31,,49990,visa, Presencial,8571, Internacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Platinum American Express,2.31,2135250,40990,american express, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Platinum MasterCard,2.31,2135250,40990,mastercard, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Platinum Visa,2.31,2135250,40990,visa, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria One Rewards Signature,2.31,,47990,visa, Presencial,8571, Internacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria Platinum Avianca LifeMiles,2.31,2135250,53990,visa, Online,8571, Internacional,1,1,1
+Tarjeto de Crédito Claro Scotiabank Colpatria,2.31,,41990,tarjetas privadas, Online,8571, Internacional,1,0,1
+Tarjeta de Crédito Fácil CODENSA Amarilla,2.31,,25700,tarjetas privadas, Online,8571, Nacional,1,0,1
+Tarjeta de Crédito Fácil CODENSA MasterCard,2.31,,26700,mastercard, Online,8571, Internacional,1,0,1
+Tarjeta de Crédito Fácil CODENSA Verde - Semilla,2.31,,27700,tarjetas privadas, Online,8571, Nacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria PriceSmart,2.31,,27660,tarjetas privadas, Online,8571, Internacional,1,0,1
+Tarjeta de Crédito Scotiabank Colpatria Terpel,2.31,2135250,31990,tarjetas privadas, Online,8571, Internacional,1,1,1
+Tarjeta de Crédito Scotiabank Colpatria Visa Gold AAdvantage,2.31,,37990,visa, Online,8571, Internacional,1,0,1
