@@ -6,7 +6,7 @@
 
 ## Dataset
 ### Data source: https://www.comparaonline.com.co/tarjeta-de-credito
-### 234 records, 12 features
+### 234 records, 12 features (after the wrangling proccess)
 ### Features:
   - nombre_tarjeta (Name of the credit card)
   - Tasa de interés mensual (Monthly interest rate applied to the card)
@@ -52,3 +52,4 @@
  - Python
  - Jupyter notebooks
 
+# Note: Some comments and titles were reviewed and improved with the assistance of ChatGPT for clarity and English refinement. All insights, model selection, analysis, and project decisions are my own.
